@@ -1,0 +1,8 @@
+# Ignore everything in the following folders
+
+# pycache folder
+src/__pycache__
+__pycache__/
+
+# asher's file
+git_instructs.txt

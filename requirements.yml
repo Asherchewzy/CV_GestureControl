@@ -1,0 +1,12 @@
+name: gesture_control
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+    - tensorflow==2.13.0
+    - pyautogui==0.9.54
+    - mediapipe==0.10.7
+    - opencv-python==4.8.1.78
+    - pywin32==306
